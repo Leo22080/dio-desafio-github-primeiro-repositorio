@@ -1,0 +1,24 @@
+Pensamento Computacional
+*Habilidade Generalista
+*Matemática Lógica
+*Pilares
+   -Decomposição
+   -Reconhecimento de Padrões
+   -Abstração
+   -Designe de Algoritmos
+
+Processo contínuo
+->Definir uma solução
+->testar a solução
+->aperfeiçoamento da solução encontrada
+
+Habilidades
+->Raciocícionio Lógico
+   -Indução
+   -Dedução
+   -Abdução
+
+->Aperfeiçoamento
+   -Encontrar soluções eficientes
+   -Simplificar processos
+   -Funções bem definidas

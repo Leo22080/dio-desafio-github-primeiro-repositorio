@@ -1,2 +1,38 @@
 Link para download do Git: https://git-scm.com/downloads
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Introdução ao Git
+>Comandos básicos
+
+			Windows		Unix
+Mudar de pastas		 >cd		 >cd
+Listar pastas		 >dir		 >ls
+Criar pastas		 >mkdir <dir>	 >mkdir <dir>
+Deletar pastas		 >del/rmdir	 >rm -rf
+
+Git
+ -sha1	
+ -Objetivos fundamentais
+ -Sistemas distribuídos
+ -Segurança
+
+Ojetos
+ -blobs
+ -trees
+ -commits
+
+Criar Repositório
+>git init
+>ls -a #mostra arquivos ocultos
+>git config --global user.email "user@email.com"
+>git config --user username user
+
+Criar um commit
+>git add .
+>git commit -m "commit inicial"
+
+enviar repositório local para um repositório remoto
+>git remote add origin https://github...
+>git remote -v
+>git push origin master
+
